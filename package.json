@@ -1,0 +1,27 @@
+{
+  "name": "stylelint-config-rawbot",
+  "version": "0.1.0",
+  "description": "Rawbot Stylelint common configuration (CSS/SCSS styleguide)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/team-rawbot/stylelint-config-rawbot.git"
+  },
+  "keywords": [
+    "stylelint",
+    "stylelint-config",
+    "styleguide"
+  ],
+  "author": "Benoît Burgener",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/team-rawbot/stylelint-config-rawbot/issues"
+  },
+  "homepage": "https://github.com/team-rawbot/stylelint-config-rawbot#readme",
+  "peerDependencies": {
+    "stylelint": ">= 8"
+  },
+  "dependencies": {
+    "stylelint-scss": "^1.5.1"
+  }
+}

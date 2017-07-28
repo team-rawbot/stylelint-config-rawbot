@@ -77,9 +77,6 @@ module.exports = {
     'selector-pseudo-element-colon-notation': 'double',
     'selector-type-case': 'lower',
     'selector-list-comma-newline-after': 'always',
-    'rule-empty-line-before': ['always-multi-line', {
-      except: ['first-nested', 'after-single-line-comment'],
-    }],
     'media-feature-colon-space-before': 'never',
     'media-feature-colon-space-after': 'always',
     'media-feature-parentheses-space-inside': 'never',

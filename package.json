@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-rawbot",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Rawbot Stylelint common configuration (CSS/SCSS styleguide)",
   "main": "index.js",
   "repository": {

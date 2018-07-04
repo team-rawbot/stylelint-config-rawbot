@@ -1,3 +1,8 @@
+## 0.3.0
+
+* Change `function-parentheses-newline-inside` from `never-multi-line` to `always-multi-line`
+* Change `function-parentheses-space-inside` from `never` to `never-single-line`
+
 ## 0.2.0
 
 * Update stylelint-scss to version 3

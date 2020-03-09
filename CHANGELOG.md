@@ -1,3 +1,9 @@
+## 1.0.0
+
+* Removed scss plugin and associated rules
+* Added rule `at-rule-no-unknown`
+* Change rule `font-family-name-quotes` from `always-where-required` to `always-where-recommended`
+
 ## 0.3.0
 
 * Change `function-parentheses-newline-inside` from `never-multi-line` to `always-multi-line`

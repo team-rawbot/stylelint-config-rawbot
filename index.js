@@ -42,7 +42,7 @@ module.exports = {
     'selector-no-qualifying-type': [true, {
       ignore: ['attribute']
     }],
-    'font-family-name-quotes': 'always-where-required',
+    'font-family-name-quotes': 'always-where-recommended',
     'function-comma-space-before': 'never',
     'function-name-case': 'lower',
     'function-parentheses-newline-inside': 'always-multi-line',

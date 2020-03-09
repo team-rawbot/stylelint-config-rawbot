@@ -1,5 +1,11 @@
 module.exports = {
   rules: {
+    'at-rule-no-unknown': [
+      true,
+      {
+        ignoreAtRules: ['tailwind', 'screen', 'responsive', 'variants', 'extend'],
+      },
+    ],
     'max-empty-lines': 2,
     'no-eol-whitespace': true,
     'color-no-invalid-hex': true,

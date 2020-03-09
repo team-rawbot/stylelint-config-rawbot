@@ -1,7 +1,4 @@
 module.exports = {
-  plugins: [
-    'stylelint-scss',
-  ],
   rules: {
     'max-empty-lines': 2,
     'no-eol-whitespace': true,
@@ -82,15 +79,5 @@ module.exports = {
     'media-query-list-comma-space-before': 'never',
     'media-query-list-comma-space-after': 'always',
     'comment-empty-line-before': 'always',
-    'scss/at-extend-no-missing-placeholder': true,
-    'scss/at-import-no-partial-leading-underscore': true,
-    'scss/at-rule-no-unknown': true,
-    'scss/dollar-variable-colon-space-before': 'never',
-    'scss/dollar-variable-no-missing-interpolation': true,
-    'scss/double-slash-comment-whitespace-inside': 'always',
-    'scss/declaration-nested-properties': 'never',
-    'scss/operator-no-newline-before': true,
-    'scss/operator-no-newline-after': true,
-    'scss/selector-no-redundant-nesting-selector': true,
   },
 };
